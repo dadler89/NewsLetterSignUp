@@ -1,0 +1,19 @@
+{
+  "name": "newslettersignup",
+  "version": "1.0.0",
+  "description": "News Letter Sign up App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadler89/NewsLetterSIgnUp.git"
+  },
+  "author": "Alex Adler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dadler89/NewsLetterSIgnUp/issues"
+  },
+  "homepage": "https://github.com/dadler89/NewsLetterSIgnUp#readme"
+}
