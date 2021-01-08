@@ -12,9 +12,7 @@ app.use(bodyParser.urlencoded({extended: true}))
 
 
 
-app.listen(3000, () => {
-  console.log("Andre 3k listening on the port");
-})
+
 
 app.get("/", (req, res) => {
   res.sendFile(__dirname + "/signup.html");
@@ -79,3 +77,6 @@ app.post("/failure", (req, res) => {
 
 
 
+app.listen(process.env.PORT || 3000, () => {
+  console.log("Andre 3k listening on the port");
+})
