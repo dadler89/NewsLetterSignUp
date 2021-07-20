@@ -2,7 +2,7 @@
 
 https://glacial-plains-51204.herokuapp.com/
 
-## This is a demo News letter/ Subscription sign up page. Ran on a Herko server
+## This is a demo News letter/ Subscription sign up page. Ran on a Heroku server
 
 ## It has been made with a bootstrap template
 
